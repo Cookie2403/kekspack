@@ -5,7 +5,6 @@
      "layer0": "item/carrot_on_a_stick"
     },
     "overrides": [
-     { "predicate": { "custom_model_data": 1}, "model": "item/carrot_on_a_stick/1" },
-     { "predicate": {"custom_model_data": 192801}, "model": "item/mando_blaster"}
+     { "predicate": { "custom_model_data": 1}, "model": "item/carrot_on_a_stick/1" }
     ]
    }
