@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "kekspack:storm_breaker"
+            }
+        }
+    },
+    "rewards": {
+        "function": "kekspack:stormbreakergive"
+    }
+}
