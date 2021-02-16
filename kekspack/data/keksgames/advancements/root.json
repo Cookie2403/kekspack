@@ -1,0 +1,27 @@
+{
+    "display": {
+        "title": {
+            "text": "Cookie´s Advancements",
+            "italic": true,
+            "color": "dark_green",
+            "bold": false
+        },
+        "description": {
+            "text": "Cookie´s DataPack",
+            "color": "dark_blue"
+        },
+        "icon": {
+            "item": "minecraft:cookie"
+        },
+        "frame": "challenge",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

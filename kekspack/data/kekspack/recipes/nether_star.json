@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#E#",
+        "EnE",
+        "#E#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:diamond_block"
+        },
+        "E": {
+            "item": "minecraft:emerald"
+        },
+        "n": {
+            "item": "minecraft:netherite_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:nether_star",
+        "count": 1
+    }
+}
