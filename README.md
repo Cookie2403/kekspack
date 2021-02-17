@@ -7,6 +7,7 @@ Die zweite Waffe die hinzugefügt wird ist der Sturm brecher aus Avengers, Er sp
 Aber achtung! Sie können sich verletzen.
 
 Für die Models benötigt man das Resourcepack.
+Die crafting rezepte sieht man in dem Bildern.
 
 Das wars erstmal. Weitere updates kommen in der Zukunft, und bitte gebt die sachen nicht als eure aus.
 Viel Spaß <3
