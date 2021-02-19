@@ -1,4 +1,4 @@
-Willkommen zu meinem Datapack
+<h1>Willkommen zu meinem Datapack</h1>
 
 Dieses Datapack fügt eine Waffe hinzu die Feuerbälle schießen kann.
 Wenn man mit ihr rechtklickt spawnt sie vor ihnen einen Feuerball.
